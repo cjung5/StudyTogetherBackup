@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "695639396803",
+    "firebase_url": "https://studytogethertest.firebaseio.com",
+    "project_id": "studytogethertest",
+    "storage_bucket": "studytogethertest.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:695639396803:android:f9b460ab6bd20c0e",
+        "android_client_info": {
+          "package_name": "com.example.studytogether.studytogethertest"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "695639396803-8im3ea63nqem1thjknc8pid3su2bfmr0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.studytogether.studytogethertest",
+            "certificate_hash": "a3cf923f06c61abebc4d00329902933cf0a86785"
+          }
+        },
+        {
+          "client_id": "695639396803-7l4dhrjj7gmn3hmlpbpj77dnss0b5433.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCGQWdtm0dDFKTCr39i3tuY1BJA98eIFFI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "695639396803-7l4dhrjj7gmn3hmlpbpj77dnss0b5433.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

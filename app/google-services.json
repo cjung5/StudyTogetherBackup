@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "117864930945",
+    "firebase_url": "https://studytogether-ae546.firebaseio.com",
+    "project_id": "studytogether-ae546",
+    "storage_bucket": "studytogether-ae546.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:117864930945:android:1134682c5350800c",
+        "android_client_info": {
+          "package_name": "com.studytogether.studytogether"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "117864930945-h44vk0kkp5cvcu5be8gq6tj2gkpjea53.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlCxdhyplGAlQ85i-mk6F4Nvy7rVZj0iI"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">StudyTogetherTest</string>
+    <string name="title_activity_bottom_navigation">BottomNavigationActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="groupName">CSCI430</string>
+    <string name="groupGoal">Sprint Project</string>
+    <string name="numberOfMember">Participatiers: 2</string>
+    <string name="groupActive">Time: 2pm - 4pm</string>
+    <string name="save">Save</string>
+</resources>
